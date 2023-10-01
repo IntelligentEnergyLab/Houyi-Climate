@@ -8,4 +8,4 @@ The dataset can be downloaded from Baidu Disk or Google Drive.
 
 Baidu Disk link：https://pan.baidu.com/s/1VI--FJefKIkFBUSBVRxIEA code：xr8a 
 
-Google Drive: https://www.idrive.com/idrive/sh/sh?k=m2w2v6s9p5
+Google Drive link: https://www.idrive.com/idrive/sh/sh?k=m2w2v6s9p5
